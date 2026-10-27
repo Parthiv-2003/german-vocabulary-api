@@ -77,7 +77,7 @@ german-vocabulary-api
 ├── mvnw.cmd
 ├── .gitignore
 └── README.md
-
+```
 ⚙️ Technology StackTechnologyPurpose
   Java 17  -  Backend Programming Language
   Spring Boot 3.2.x  -  Application Framework & REST API
